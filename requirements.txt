@@ -1,0 +1,1 @@
+-e git+https://github.com/FiveTwenty2/test.git#egg=test
